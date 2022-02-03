@@ -43,3 +43,22 @@ Script Untuk Memberikan Doa/Surat-Surat Al-quran
 ```shell script
 -python quran.py
 ```
+
+# Note
+> **it is forbidden to recode this script, if you are cought recode script, you will get spam from the script creators, so if you want to recoderecode, have permission first**
+
+<p align="center">
+
+<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Author Whatsapp-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+
+</p>
+
+
+
+
+
+* [`Click Here`](https://wa.me/6288229683561)
+
+
+
+> **This is script generator number, namely ©AmmarBN**
