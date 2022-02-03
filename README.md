@@ -62,3 +62,9 @@ Script Untuk Memberikan Doa/Surat-Surat Al-quran
 
 
 > **This is script generator number, namely ©AmmarBN**
+
+# Developer
+
+---------
+
+<a href="https://github.com/AmmarBN"><img src="https://github.com/AmmarBN.png" width="100" height="100"></a>  [![Lord-Ammar](https://github.com/Lord-Ammar.png?size=100)](https://github.com/Lord-Ammar)
